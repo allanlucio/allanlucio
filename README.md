@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Full Stack developer from Arapiraca, Brazil.
+  A Flutter developer from Arapiraca, Brazil.
 </p>
 
 <p align='center'>
@@ -20,18 +20,17 @@
 ---
 ### About me
 
-- My name is Allan, i'm 26. I am Full Stack, mobile developer with flutter and BSc. Computer Science.
+- My name is Allan, i'm 27. I am Full-Time Flutter developer and BSc. Computer Science.
 
 ---
 ### Technologies & Tools
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3498db)
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Database-PostgresSql-informational?style=flat&logo=postgresql&logoColor=white&color=3498db)
