@@ -20,7 +20,7 @@
 ---
 ### About me
 
-- My name is Allan, i'm 27. I am Full-Time Flutter developer and BSc. Computer Science.
+- My name is Allan. I am Full-Time Flutter developer and BSc. Computer Science.
 
 ---
 ### Technologies & Tools
