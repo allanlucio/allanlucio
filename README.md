@@ -12,11 +12,6 @@
   </a>&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=allanlucio&show_icons=true&count_private=true&theme=dracula" width="350"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlucio&layout=compact&theme=dracula" width="290">
-</p>
-
 ---
 ### About me
 
